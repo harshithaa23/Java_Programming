@@ -11,7 +11,7 @@ This course covers Java programming from beginner to advanced levels, including 
 - Exception Handling  
 - Collections Framework  
 - Advanced Concepts like Streams, File Handling, and JDBC  
-- Data Structures and Algorithms in Java  
+- Data Structures and Algorithms in Java.  
 
 ## 🏁 Current Progress  
 I've recently completed the **Java Basics** module, which includes:  
@@ -30,5 +30,5 @@ This repository contains:
 I’ll now move on to learning **Object-Oriented Programming (OOPs)** in Java. Stay tuned for more updates and code snippets!
 
 ## 🚀 About Me  
-I am passionate about coding and have embarked on this journey to strengthen my Java programming skills. Follow my progress as I tackle new challenges and concepts!  
+I am passionate about coding and have embarking on this journey to strengthen my Java programming skills. Follow my progress as I tackle new challenges and concepts!  
 
